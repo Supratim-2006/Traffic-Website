@@ -16,13 +16,16 @@ police personnel/dispatch recommendations.
 - **Package manager:** [Bun](https://bun.sh)
 - **Deployment:** Vercel
 
-- For Backend click on the links below :
+
+ 
+ 
+ **For Backend click on the links below** :
 - **Routing-API:-** https://github.com/Supratim-2006/Traffic_Routing_API
 - **Disruption_API:-** https://github.com/Supratim-2006/Traffic-disruption
 - **CrowFlow detector** https://github.com/Supratim-2006/Traffic
 - **Final API(ALL APIss Combined):-** https://github.com/Supratim-2006/Traffic_Backend
 
-- Follow the README.md files of each GitHub repositories of Backend to deploy the backend in the local machine.
+Follow the README.md files of each GitHub repositories of Backend to deploy the backend in the local machine.
 
 ## Prerequisites
 
